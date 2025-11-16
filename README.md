@@ -45,14 +45,15 @@ Görev hedeflerinin netleştirildiği, gerekli kaynakların belirlendiği, etik 
 
 ### 👻 OpSec Güvenliği (Teknik)
 
-Operasyonel Güvenlik, görevin temel taşıdır. Kimliği (IP, dijital iz) gizlemek için VPN Kullanımı!("Kill Switch" ve "Split Tunneling" özelliği ve "No Log Policies" politikası olan!) `Proton VPN` `VPN Mulvad` vb.
-, sanal makineler (VM), güvenli tarayıcılar ve görev için özel oluşturulmuş sahte (sock puppet) profillerin kullanılmasını kapsar.
+Operasyonel Güvenlik, görevin temel taşıdır. Kimliği (IP, dijital iz) gizlemek için VPN Kullanımı! Tavsiye `Proton VPN`, `Mulvad VPN` gibi güven duyulan hatta ("Kill Switch" ve "Split Tunneling" özelliği ve "No Log Policies" politikası olan!) 
+
+- Sanal makineler (VM), güvenli tarayıcılar ve görev için özel oluşturulmuş sahte (sock puppet) profillerin kullanılmasını kapsar.
 
 - Kullandığın işletim sisteminin Gereksiz telemetry ve veri toplama izinlerini kapatma-kaldırma!
 
 - Kullandığın "Tarayıcı ve İşletim Sistemini" sürekli güncel tut!
 
--   **Sanalizasyon ve Ayrıştırma:** Kişisel bilgisayardan izole bir ortamda (`Tails`, `Whonix`, `Kali`, `Unix` ve `Qubes Os` vb.) gibi açık kaynak ve gizliliğin ön planda olduğu işletim sistemlerinde araştırma yapmak için `VirtualBox` veya `VMware` gibi sanal makine kullanımları kritiktir. 
+-   **Sanalizasyon ve Ayrıştırma:** Kişisel bilgisayardan izole bir ortamda (`Tails`, `Whonix`, `Unix` ve `Qubes Os` vb.) gibi açık kaynak ve gizliliğin ön planda olduğu işletim sistemlerinde araştırma yapmak için `VirtualBox` veya `VMware` gibi sanal makine kullanımları kritiktir. 
     
  
 
@@ -82,7 +83,7 @@ Birine gizli bir bilgi göndermek istediğinizde, onun size verdiği Genel Anaht
 Bu yöntem, mesajın sadece hedeflenen alıcı tarafından okunmasını garanti altına alır. `Kleopatra` kullanabilirsiniz.
 
 
--  **Gizli Arama ve Geniş Arama:** Araştırmalarda `DuckDuckGo`, `Brave Search`, `Starpage` gibi gizliliğe odaklı **arama motorları** ve `Firefox` (gelişmiş gizlilik ayarlarıyla) veya `Tor Browser` gibi güvenli **tarayıcılar** kullanılmalıdır.
+-  **Gizli Arama ve Geniş Arama:** Araştırmalarda `DuckDuckGo`, `Brave Search`, `Starpage` gibi gizliliğe odaklı arama motorları ve `Firefox` veya `Tor Browser` gibi güvenli tarayıcılar kullanılmalıdır.
     
 - **Sahte Profiller:** OSINT çalışmaları için sahte profil (sock puppet) oluştururken kullanılacak e-posta servisleri, operasyonun önemine göre üçe ayrılır:
 
