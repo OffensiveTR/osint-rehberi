@@ -45,7 +45,7 @@ Görev hedeflerinin netleştirildiği, gerekli kaynakların belirlendiği, etik 
 
 ### 👻 OpSec Güvenliği (Teknik)
 
-Operasyonel Güvenlik, görevin temel taşıdır. Kimliği (IP, dijital iz) gizlemek için VPN("Kill Switch" ve "Split Tunneling" özelliği ve "No Log Policies" politikası olan!)
+Operasyonel Güvenlik, görevin temel taşıdır. Kimliği (IP, dijital iz) gizlemek için VPN Kullanımı!("Kill Switch" ve "Split Tunneling" özelliği ve "No Log Policies" politikası olan!) `Proton VPN` `VPN Mulvad` vb.
 , sanal makineler (VM), güvenli tarayıcılar ve görev için özel oluşturulmuş sahte (sock puppet) profillerin kullanılmasını kapsar.
 
 - Kullandığın işletim sisteminin Gereksiz telemetry ve veri toplama izinlerini kapatma-kaldırma!
