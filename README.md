@@ -90,7 +90,7 @@ Bu yöntem, mesajın sadece hedeflenen alıcı tarafından okunmasını garanti 
     
 2.  **Kalıcı Ama Gizli Profiller (Aliasing):** Eğer profillerinizin kalıcı olmasını ancak ana e-posta adresinizin (örneğin ana ProtonMail adresinizin) ifşa olmamasını istiyorsanız, `SimpleLogin` veya `AnonAddy` gibi e-posta takma adı (aliasing) servisleri idealdir. Bu servisler, oluşturduğunuz her sahte profil için ayrı bir "maske" e-posta adresi yaratır ve gelen postaları güvenli ana kutunuza iletir.
     
-3.  **Önemli ve Yüksek Güvenlikli Operasyonlar:** Tespit edilmemenin kritik olduğu, dikkat çekmemek ve doğal akışta istihbarat toplamak gereken önemli konularda, tamamen bağımsız ve güvenli servislere ihtiyaç duyulur. Bu durumda `ProtonMail` veya `Tuta Mail` gibi uçtan uca şifreleme sunan, anonimliğe önem veren servisler tercih edilmelidir. Alternatif olarak, (çok yüksek teknik OpSec bilgisi gerektirse de) kendi sunucunuza bağlı bir e-posta adresi de kullanılabilir.
+3.  **Önemli ve Yüksek Güvenlikli Operasyonlar:** Tespit edilmemenin kritik olduğu, dikkat çekmemek ve doğal akışta istihbarat toplamak gereken önemli konularda, tamamen bağımsız ve güvenli servislere ihtiyaç duyulur. Bu durumda `ProtonMail`, `Tuta Mail` ve `Posteo Mail` gibi uçtan uca şifreleme sunan, anonimliğe önem veren servisler tercih edilmelidir. Alternatif olarak, (çok yüksek teknik OpSec bilgisi gerektirse de) kendi sunucunuza bağlı bir e-posta adresi de kullanılabilir.
     
 -   Yapay zeka ile üretilmiş, gerçek hayatta olmayan kişi fotoğrafı üreten bir site: [thispersondoesnotexist.com](https://thispersondoesnotexist.com/). Sahte profillerinizde kullanabilirsiniz.
     
