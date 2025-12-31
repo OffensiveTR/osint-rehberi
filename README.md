@@ -31,9 +31,9 @@
 
 
 
-# 0'dan Uzmanlığa TÜRKÇE OSINT Rehberi!
+# TÜRKÇE OSINT Rehberi!
 
-_Hazırlayan: MèSaKu (Katkıları için Laox'a teşekkürler.)_
+_Hazırlayan: MèSaKu 🥷🏿 @OffensiveTR
 
 
 **İstihbarat Döngüsü ve Uygulama Aşamaları**
