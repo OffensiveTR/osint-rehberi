@@ -263,7 +263,7 @@ ___
     
 -   **Teknoloji Tespiti:** `Wappalyzer` (eklenti), bir web sitesinin kullandığı teknolojileri (sunucu, CMS, analiz araçları) tespit eder. `BuiltWith` ([builtwith.com](https://builtwith.com)) ise o sitenin tarihsel olarak (geçmişte) hangi teknolojileri kullandığını da gösteren devasa bir veritabanıdır. İkisi birbirinin tamamlayıcısı ve en önemli "Teknoloji Tespiti" araçlarıdır.
     
--   **Zafiyet Veritabanı:** `Exploit-DB` ([exploit-db.com](https://www.exploit-db.com/)), sistemlerin bilinen zafiyetlerini (exploit) aramak için kullanılır. Örneğin, önce `Shodan`, `Censys` veya `Wappalyzer` ile bir hedef (sunucu, servis, yazılım) bulursunuz. Sonra, bulduğunuz o yazılımın (örn: `Apache 2.4.51`) bilinen bir zafiyeti var mı diye `Exploit-DB`'ye bakarsınız.
+-   **Zafiyet Veritabanı:** `Exploit-DB`, `GGTFOBins`  sistemlerin bilinen zafiyetlerini (exploit) aramak için kullanılır. Örneğin, önce `Shodan`, `Censys` veya `Wappalyzer` ile bir hedef (sunucu, servis, yazılım) bulursunuz. Sonra, bulduğunuz o yazılımın (örn: `Apache 2.4.51`) bilinen bir zafiyeti var mı diye `Exploit-DB`'ye bakarsınız.
     
 
 ###  Alan Adı ve DNS Geçmişi
