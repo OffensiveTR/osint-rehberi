@@ -43,11 +43,13 @@ _Hazırlayan: MèSaKu (Katkıları için Laox'a teşekkürler.)_
 Görev hedeflerinin netleştirildiği, gerekli kaynakların belirlendiği, etik sınırların çizildiği ve operasyonel güvenliğin (OpSec) sağlandığı stratejik başlangıç aşamasıdır.
 
 
-### 👻 OpSec Güvenliği (Teknik)
+### OpSec Güvenliği (Teknik)
 
-Operasyonel Güvenlik, görevin temel taşıdır. Kimliği (IP, dijital iz) gizlemek için VPN Kullanımı! Tavsiye `Proton VPN`, `Mulvad VPN` gibi güven duyulan hatta ("Kill Switch" ve "Split Tunneling" özelliği ve "No Log Policies" politikası olan!) 
+Operasyonel Güvenlik, görevin temel taşıdır. 
 
-- Sanal makineler (VM), güvenli tarayıcılar ve görev için özel oluşturulmuş sahte (sock puppet) profillerin kullanılmasını kapsar.
+- Kimliği (IP, dijital iz) gizlemek için VPN Kullanımı! Tavsiye `Proton VPN`, `Mulvad VPN` gibi güven duyulan hatta ("Kill Switch" ve "Split Tunneling" özelliği ve "No Log Policies" politikasına sahip) 
+
+- Sanal makineler (VM), güvenli tarayıcılar ve görev için özel oluşturulmuş sahte profillerin kullanılmasını kapsar.
 
 - Kullandığın işletim sisteminin Gereksiz telemetry ve veri toplama izinlerini kapatma-kaldırma!
 
