@@ -358,7 +358,7 @@ ___
 
 ## AŞAMA 3:  İŞLEME & DEĞERLENDİRME (Veriyi Ayıklama)
 
--   **Metadata Analizi:** `ExifTool` (Fotoğraf, video ve dokümanlardan EXIF verilerini okur, işler veya siler).
+-   **Metadata Analizi:** `ExifTool`,`pic2map` vb. 
     
 -   **Video Doğrulama:** `InVID`, `WeVerify` (Videolardan meta veri çıkarır, karelere ayırır \[tersine arama için\] ve manipülasyon \[deepfake\] tespiti sağlar).
     
