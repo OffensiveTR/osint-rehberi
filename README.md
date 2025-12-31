@@ -33,29 +33,29 @@
 
 # TÜRKÇE OSINT Rehberi!
 
-_Hazırlayan: MèSaKu 🥷🏿 @OffensiveTR
+_Hazırlayan_: OffensiveTR🥷🏿
 
 
 **İstihbarat Döngüsü ve Uygulama Aşamaları**
 
 ## AŞAMA 1: PLANLAMA & YÖNLENDİRME (Strateji ve Güvenlik)
 
-Görev hedeflerinin netleştirildiği, gerekli kaynakların belirlendiği, etik sınırların çizildiği ve operasyonel güvenliğin (OpSec) sağlandığı stratejik başlangıç aşamasıdır.
+Görev hedeflerinin netleştirildiği, gerekli kaynakların belirlendiği, etik sınırların çizildiği ve operasyonel güvenliğin sağlandığı stratejik başlangıç aşamasıdır.
 
 
-### OpSec Güvenliği (Teknik)
+### Operasyonel Güvenlik -OpSec Güvenliği 
 
 Operasyonel Güvenlik, görevin temel taşıdır. 
 
-- Kimliği (IP, dijital iz) gizlemek için VPN Kullanımı! Tavsiye `Proton VPN`, `Mulvad VPN` gibi güven duyulan hatta ("Kill Switch" ve "Split Tunneling" özelliği ve "No Log Policies" politikasına sahip) 
-
-- Sanal makineler (VM), güvenli tarayıcılar ve görev için özel oluşturulmuş sahte profillerin kullanılmasını kapsar.
+- IP, dijital iz gizlemek için VPN Kullanımı! Tavsiye `Proton VPN`, `Mulvad VPN` gibi güven duyulan ("Kill Switch" ve "Split Tunneling" özelliği ve "No Log Policies" politikasında hizmet veren servisler!) 
 
 - Kullandığın işletim sisteminin Gereksiz telemetry ve veri toplama izinlerini kapatma-kaldırma!
 
 - Kullandığın "Tarayıcı ve İşletim Sistemini" sürekli güncel tut!
 
--   **Sanalizasyon ve Ayrıştırma:** Kişisel bilgisayardan izole bir ortamda (`Tails`, `Whonix`, `Unix` ve `Qubes Os` vb.) gibi açık kaynak ve gizliliğin ön planda olduğu işletim sistemlerinde araştırma yapmak için `VirtualBox` veya `VMware` gibi sanal makine kullanımları kritiktir. 
+
+  
+  **Sanalizasyon ve Ayrıştırma:** Kişisel bilgisayardan izole bir ortamda (`Tails`, `Whonix`, `Unix` ve `Qubes Os` vb.) gibi açık kaynak ve gizliliğin ön planda olduğu işletim sistemlerinde araştırma yapmak için `VirtualBox` veya `VMware` gibi sanal makine kullanımları kritiktir. 
     
  
 
